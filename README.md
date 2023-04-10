@@ -1,6 +1,6 @@
 ### Welcome!
 
-I am researcher and PhD candidate of the Ubiquitous Computing lab at the University of Siegen in Germany.
+I am research assistant at the research unit for Artifact-based Computing and User Research at TU Wien in Vienna, Austria.
 
 #### Research Interests
 - ubiquitous computing
